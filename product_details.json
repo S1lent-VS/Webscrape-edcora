@@ -1,0 +1,338 @@
+[
+    {
+        "name": "Advertorial ilike-it.ro I LIKE IT",
+        "url": "https://edcora.ro/product/advertorial-ilike-it-ro-i-like-it/",
+        "initial_price": "1.259,00lei",
+        "reduced_price": "690,00lei"
+    },
+    {
+        "name": "Advertorial moneyweb.ro",
+        "url": "https://edcora.ro/product/advertorial-moneyweb-ro/",
+        "initial_price": "549,00lei",
+        "reduced_price": "49,00lei"
+    },
+    {
+        "name": "Advertorial mariaeva.ro",
+        "url": "https://edcora.ro/product/advertorial-mariaeva-ro/",
+        "initial_price": "459,00lei",
+        "reduced_price": "49,00lei"
+    },
+    {
+        "name": "Advertorial honline.ro",
+        "url": "https://edcora.ro/product/advertorial-honline-ro/",
+        "initial_price": "499,00lei",
+        "reduced_price": "49,00lei"
+    },
+    {
+        "name": "Advertorial newscafe.ro",
+        "url": "https://edcora.ro/product/advertorial-newscafe-ro/",
+        "initial_price": "459,00lei",
+        "reduced_price": "49,00lei"
+    },
+    {
+        "name": "Advertorial despreimunitate.ro",
+        "url": "https://edcora.ro/product/advertorial-despreimunitate-ro/",
+        "initial_price": "459,00lei",
+        "reduced_price": "59,00lei"
+    },
+    {
+        "name": "Advertorial websiter.ro",
+        "url": "https://edcora.ro/product/advertorial-websiter-ro/",
+        "initial_price": "459,00lei",
+        "reduced_price": "49,00lei"
+    },
+    {
+        "name": "Advertorial ploiestiri.ro",
+        "url": "https://edcora.ro/product/advertorial-ploiestiri-ro/",
+        "initial_price": "459,00lei",
+        "reduced_price": "49,00lei"
+    },
+    {
+        "name": "Advertorial etiquettemagazine.ro",
+        "url": "https://edcora.ro/product/advertorial-etiquettemagazine-ro/",
+        "initial_price": "549,00lei",
+        "reduced_price": "59,00lei"
+    },
+    {
+        "name": "Advertorial ziarulora25.ro",
+        "url": "https://edcora.ro/product/advertorial-ziarulora25-ro/",
+        "initial_price": "459,00lei",
+        "reduced_price": "49,00lei"
+    },
+    {
+        "name": "Advertorial ziarulrondul.ro",
+        "url": "https://edcora.ro/product/advertorial-ziarulrondul-ro/",
+        "initial_price": "459,00lei",
+        "reduced_price": "49,00lei"
+    },
+    {
+        "name": "Advertorial newspapertimes.ro",
+        "url": "https://edcora.ro/product/advertorial-newspapertimes-ro/",
+        "initial_price": "459,00lei",
+        "reduced_price": "49,00lei"
+    },
+    {
+        "name": "Advertorial automondial.ro",
+        "url": "https://edcora.ro/product/advertorial-automondial-ro/",
+        "initial_price": "549,00lei",
+        "reduced_price": "49,00lei"
+    },
+    {
+        "name": "Advertorial auto-motor-si-sport.ro",
+        "url": "https://edcora.ro/product/advertorial-auto-motor-si-sport-ro/",
+        "initial_price": "549,00lei",
+        "reduced_price": "59,00lei"
+    },
+    {
+        "name": "Advertorial lacafele.ro",
+        "url": "https://edcora.ro/product/advertorial-lacafele-ro/",
+        "initial_price": "599,00lei",
+        "reduced_price": "219,00lei"
+    },
+    {
+        "name": "Advertorial gimo.ro",
+        "url": "https://edcora.ro/product/advertorial-gimo-ro/",
+        "initial_price": "599,00lei",
+        "reduced_price": "290,00lei"
+    },
+    {
+        "name": "Advertorial ucoz.ro",
+        "url": "https://edcora.ro/product/advertorial-ucoz-ro/",
+        "initial_price": "987,00lei",
+        "reduced_price": "379,00lei"
+    },
+    {
+        "name": "Advertorial odat.ro",
+        "url": "https://edcora.ro/product/advertorial-odat-ro/",
+        "initial_price": "987,00lei",
+        "reduced_price": "290,00lei"
+    },
+    {
+        "name": "Advertorial ghimpele.ro",
+        "url": "https://edcora.ro/product/advertorial-ghimpele-ro/",
+        "initial_price": "987,00lei",
+        "reduced_price": "249,00lei"
+    },
+    {
+        "name": "Advertorial ponturifierbinti.com",
+        "url": "https://edcora.ro/product/advertorial-ponturifierbinti-com/",
+        "initial_price": "599,00lei",
+        "reduced_price": "379,00lei"
+    },
+    {
+        "name": "Advertorial locco.ro",
+        "url": "https://edcora.ro/product/advertorial-locco-ro/",
+        "initial_price": "987,00lei",
+        "reduced_price": "209,00lei"
+    },
+    {
+        "name": "Advertorial newsin.ro",
+        "url": "https://edcora.ro/product/advertorial-newsin-ro/",
+        "initial_price": "987,00lei",
+        "reduced_price": "249,00lei"
+    },
+    {
+        "name": "Advertorial eafacere.ro",
+        "url": "https://edcora.ro/product/advertorial-eafacere-ro/",
+        "initial_price": "599,00lei",
+        "reduced_price": "219,00lei"
+    },
+    {
+        "name": "Advertorial zambesc.com",
+        "url": "https://edcora.ro/product/advertorial-zambesc-com/",
+        "initial_price": "599,00lei",
+        "reduced_price": "209,00lei"
+    },
+    {
+        "name": "Advertorial sexgen.ro",
+        "url": "https://edcora.ro/product/advertorial-sexgen-ro/",
+        "initial_price": "599,00lei",
+        "reduced_price": "199,00lei"
+    },
+    {
+        "name": "Advertorial 6pm.ro",
+        "url": "https://edcora.ro/product/advertorial-6pm-ro/",
+        "initial_price": "987,00lei",
+        "reduced_price": "249,00lei"
+    },
+    {
+        "name": "Advertorial stirisportive.ro",
+        "url": "https://edcora.ro/product/advertorial-stirisportive-ro/",
+        "initial_price": "599,00lei",
+        "reduced_price": "199,00lei"
+    },
+    {
+        "name": "Advertorial capitalul.ro",
+        "url": "https://edcora.ro/product/advertorial-capitalul-ro/",
+        "initial_price": "599,00lei",
+        "reduced_price": "349,00lei"
+    },
+    {
+        "name": "Advertorial finanteazi.ro",
+        "url": "https://edcora.ro/product/advertorial-finanteazi-ro/",
+        "initial_price": "699,00lei",
+        "reduced_price": "297,00lei"
+    },
+    {
+        "name": "Advertorial onlines.ro",
+        "url": "https://edcora.ro/product/advertorial-onlines-ro/",
+        "initial_price": "599,00lei",
+        "reduced_price": "219,00lei"
+    },
+    {
+        "name": "Advertorial voxcapital.ro",
+        "url": "https://edcora.ro/product/advertorial-voxcapital-ro/",
+        "initial_price": "359,00lei",
+        "reduced_price": "249,00lei"
+    },
+    {
+        "name": "Advertorial wonder.ro",
+        "url": "https://edcora.ro/product/advertorial-wonder-ro/",
+        "initial_price": "799,00lei",
+        "reduced_price": "189,00lei"
+    },
+    {
+        "name": "Advertorial fullonline.ro",
+        "url": "https://edcora.ro/product/advertorial-fullonline-ro/",
+        "initial_price": "359,00lei",
+        "reduced_price": "249,00lei"
+    },
+    {
+        "name": "Advertorial mediaindex.ro",
+        "url": "https://edcora.ro/product/advertorial-mediaindex-ro/",
+        "initial_price": "249,00lei",
+        "reduced_price": "nu are reducere"
+    },
+    {
+        "name": "Advertorial reginele.ro",
+        "url": "https://edcora.ro/product/advertorial-reginele-ro/",
+        "initial_price": "249,00lei",
+        "reduced_price": "nu are reducere"
+    },
+    {
+        "name": "Advertorial blogevent.ro",
+        "url": "https://edcora.ro/product/advertorial-blogevent-ro/",
+        "initial_price": "219,00lei",
+        "reduced_price": "nu are reducere"
+    },
+    {
+        "name": "Advertorial presainblugi.com",
+        "url": "https://edcora.ro/product/advertorial-presainblugi-com/",
+        "initial_price": "199,00lei",
+        "reduced_price": "nu are reducere"
+    },
+    {
+        "name": "Advertorial seoads.org",
+        "url": "https://edcora.ro/product/advertorial-seoads-org/",
+        "initial_price": "599,00lei",
+        "reduced_price": "249,00lei"
+    },
+    {
+        "name": "Advertorial lady4ever.ro",
+        "url": "https://edcora.ro/product/advertorial-lady4ever-ro/",
+        "initial_price": "299,00lei",
+        "reduced_price": "249,00lei"
+    },
+    {
+        "name": "Advertorial neydamn.eu",
+        "url": "https://edcora.ro/product/advertorial-neydamn-eu/",
+        "initial_price": "199,00lei",
+        "reduced_price": "nu are reducere"
+    },
+    {
+        "name": "Advertorial preferate.net",
+        "url": "https://edcora.ro/product/advertorial-preferate-net/",
+        "initial_price": "199,00lei",
+        "reduced_price": "159,00lei"
+    },
+    {
+        "name": "Advertorial ecomunicate.ro",
+        "url": "https://edcora.ro/product/advertorial-ecomunicate-ro/",
+        "initial_price": "199,00lei",
+        "reduced_price": "109,00lei"
+    },
+    {
+        "name": "Advertorial iubesti.ro",
+        "url": "https://edcora.ro/product/advertorial-iubesti-ro/",
+        "initial_price": "199,00lei",
+        "reduced_price": "139,00lei"
+    },
+    {
+        "name": "Advertorial nextblogs.info",
+        "url": "https://edcora.ro/product/advertorial-nextblogs-info/",
+        "initial_price": "199,00lei",
+        "reduced_price": "68,00lei"
+    },
+    {
+        "name": "Advertorial izzyzone.com",
+        "url": "https://edcora.ro/product/advertorial-izzyzone-com/",
+        "initial_price": "199,00lei",
+        "reduced_price": "68,00lei"
+    },
+    {
+        "name": "Advertorial zut.ro",
+        "url": "https://edcora.ro/product/advertorial-zut-ro/",
+        "initial_price": "199,00lei",
+        "reduced_price": "95,00lei"
+    },
+    {
+        "name": "Advertorial advertoriale.info",
+        "url": "https://edcora.ro/product/advertorial-advertoriale-info/",
+        "initial_price": "199,00lei",
+        "reduced_price": "95,00lei"
+    },
+    {
+        "name": "Advertorial activinfo.ro",
+        "url": "https://edcora.ro/product/advertorial-activinfo-ro/",
+        "initial_price": "199,00lei",
+        "reduced_price": "68,00lei"
+    },
+    {
+        "name": "Advertorial posteaza.info",
+        "url": "https://edcora.ro/product/advertorial-posteaza-info/",
+        "initial_price": "199,00lei",
+        "reduced_price": "68,00lei"
+    },
+    {
+        "name": "Advertorial site-pedia.ro",
+        "url": "https://edcora.ro/product/advertorial-site-pedia-ro/",
+        "initial_price": "199,00lei",
+        "reduced_price": "68,00lei"
+    },
+    {
+        "name": "Advertorial replicaonline.ro",
+        "url": "https://edcora.ro/product/advertorial-replicaonline-ro/",
+        "initial_price": "1.590,00lei",
+        "reduced_price": "929,00lei"
+    },
+    {
+        "name": "Advertorial constanteni.ro",
+        "url": "https://edcora.ro/product/advertorial-constanteni-ro/",
+        "initial_price": "549,00lei",
+        "reduced_price": "95,00lei"
+    },
+    {
+        "name": "Advertorial ghid-constructii.ro",
+        "url": "https://edcora.ro/product/advertorial-ghid-constructii-ro/",
+        "initial_price": "549,00lei",
+        "reduced_price": "95,00lei"
+    },
+    {
+        "name": "Advertorial clujeni.com",
+        "url": "https://edcora.ro/product/advertorial-clujeni-com/",
+        "initial_price": "549,00lei",
+        "reduced_price": "95,00lei"
+    },
+    {
+        "name": "Advertorial aradeni.ro",
+        "url": "https://edcora.ro/product/advertorial-aradeni-ro/",
+        "initial_price": "549,00lei",
+        "reduced_price": "95,00lei"
+    },
+    {
+        "name": "Advertorial bucuresteni.ro",
+        "url": "https://edcora.ro/product/advertorial-bucuresteni-ro/",
+        "initial_price": "549,00lei",
+        "reduced_price": "95,00lei"
+    }
+]
